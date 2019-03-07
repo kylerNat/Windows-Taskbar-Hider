@@ -9,3 +9,8 @@ Tested with in Windows 10.
 * Download and run the exe [here](build/Taskbar%20Hider.exe)
 
 * To have the program run on startup place the exe inside: `%AppData%\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+
+## Usage
+Press the windows key to show the taskbar.
+
+If you need to click icons in the notification area, hold the windows key to prevent the taskbar from disappearing when it looses focus.
