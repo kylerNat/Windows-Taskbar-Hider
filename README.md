@@ -3,8 +3,9 @@ A tiny utility program that keeps the taskbar hidden until it is activated with 
 
 Tested with in Windows 10.
 
-To use turn on "Automatically hide the taskbar in desktop mode" under the Windows Taskbar settings.
+## Installation
+* Turn on "Automatically hide the taskbar in desktop mode" under the Windows Taskbar settings.
 
-Then download and run the exe [here](build/Taskbar%20Hider.exe)
+* Download and run the exe [here](build/Taskbar%20Hider.exe)
 
-To have the program run on startup place the exe inside: `%AppData%\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+* To have the program run on startup place the exe inside: `%AppData%\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
